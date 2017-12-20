@@ -1,0 +1,6 @@
+<?link rel="stylesheet" type="text/css" src="/style.css"?>
+<zk>
+    <window border="normal">
+        <label value="Duy NN" sclass="myLabel"></label>
+    </window>
+</zk>
